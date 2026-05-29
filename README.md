@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**Diablo109/diablo109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year B.Tech student in **AI & Data Science** at USAR, Delhi.
+I build end-to-end ML systems and AI-powered tools — from RAG pipelines to deployed web apps.
 
-Here are some ideas to get you started:
+Currently targeting **ML / Data Engineering internships** at product companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm building
+
+- **RAG Evaluation Pipeline** — retrieval-augmented generation over ML papers using FAISS + Sentence Transformers + Groq (Llama 3), evaluated with RAGAS metrics
+- **AI web app** — deployed on Streamlit Cloud, real users, freemium model (details coming soon)
+
+---
+
+## 🛠️ Tech stack
+
+**Languages:** Python, SQL  
+**ML / AI:** Scikit-learn, Sentence Transformers, FAISS, RAGAS, Groq API, Gemini API  
+**Tools:** Streamlit, Git, VS Code  
+**Exploring:** LangChain, dbt, Airflow
+
+---
+
+## 📬 Connect
+
+- LinkedIn: [www.linkedin.com/in/rahulmahour]
+- Email: mahourrahul21105@email.com
