@@ -25,5 +25,5 @@ Currently targeting **ML / Data Engineering internships** at product companies.
 
 ## 📬 Connect
 
-- LinkedIn: [www.linkedin.com/in/rahulmahour]
+- LinkedIn: www.linkedin.com/in/rahulmahour
 - Email: mahourrahul21105@email.com
